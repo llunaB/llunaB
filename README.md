@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="./main.css">
 <article class="markdown-body">
   <div class="left">
-    <h4> 🐹 <br>I'm so Happy to meet you! </h4>
+    <h2> 🐹 <br>I'm so Happy to meet you! </h2>
     <div class="about">
       <span class="circle"></span>
       <span class="fs-14"> 컴퓨터 좋아하는 1인 </span>
