@@ -1,3 +1,5 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="main.css">
 <article class="markdown-body">
   <div class="left">
     <h4> 🐹 <br>I'm so Happy to meet you! </h4>
@@ -18,4 +20,3 @@
     </a>
   </div>
 </article>
-
