@@ -1,6 +1,5 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="./main.css">
-<article class="markdown-body">
   <div class="left">
     <h3> 🐹 <br></h3>
     <div class="about">
@@ -9,10 +8,9 @@
       <div class="hr"></div>
     </div>
   </div>
-  <div class="right my-2">
+  <div class="right">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=euijinbang&theme=material-palenight"/>
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euijinbang&layout=compact&hide=javascript&theme=material-palenight"/>
   </div>
     <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feuijinbang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-</article>
