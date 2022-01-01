@@ -1,7 +1,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="./main.css">
 <div class="left">
-  <h3> 🐹 컴퓨터 좋아하는 1인></h3>
+  <p> 🐹 컴퓨터 좋아하는 1인 </p>
 </div>
 <div class="right">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=euijinbang&theme=material-palenight" />
