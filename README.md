@@ -4,7 +4,7 @@
   <p> 🐹 Hi. </p>
 </div>
 <div class="right">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=euijinbang&theme=material-palenight" />
+  <img class="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=euijinbang&theme=material-palenight" />
   <img width="50%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=euijinbang&layout=compact&hide=javascript&theme=material-palenight" />
 </div>
