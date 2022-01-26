@@ -1,8 +1,8 @@
 ## What is my story?
 - What is my domain?
-- Work experience in E-Commerce.
+- Work experience in E-Commerce, major in English Language and Literature.
 - What am I interested in?
-- Love Food. Love Coffee. Love Meditation. Love Yoga.
+- Love Food & Coffee. Love Reading & Books. Love Meditation & Yoga.
 
 
 ## Dude,
