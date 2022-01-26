@@ -1,4 +1,19 @@
+## What is my story?
+- What is my domain?
+- Work experience in E-Commerce.
+- What am I interested in?
+- Love Food. Love Coffee. Love Meditation. Love Yoga.
+
+
 ## Dude,
+
+- Code, Code, Code
+- Code your own program.
+- Coding is not researching something.
+- Make your own service.
+- Learn Distributed System.
+
+## So.. 
 
 - Let's be clear and simple.
 - Think before you type something.
