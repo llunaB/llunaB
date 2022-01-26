@@ -41,3 +41,5 @@
 - Simplify
 - Optimize
 - Remove
+
+## Thanks for reading!
