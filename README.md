@@ -1,6 +1,7 @@
 ## What is my story?
 - What is my domain?
 - Work experience in E-Commerce, major in English Language and Literature.
+- Believe or not, I worked as a Web Designer.
 - What am I interested in?
 - Love Food & Coffee. Love Reading & Books. Love Meditation & Yoga.
 
