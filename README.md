@@ -13,5 +13,5 @@
 ### How can I make a good program?
 - Don't make mistakes.
 - Design Pseudocode.
-- Test yout design.
+- Test your design.
 - Always fix warnings.
