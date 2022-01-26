@@ -19,7 +19,7 @@
 - Test your design.
 - Always fix warnings.
 
-## This is my commit message convention
+## This is my convention.
 
 - Add
 - Fix
