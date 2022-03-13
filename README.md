@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llunaB&show_icons=true&theme=default)
 </br>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mergingchoco)](https://solved.ac/malkoring)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mergingchoco)](https://solved.ac/mergingchoco)
 
 ## What is my story?
 - What is my domain?
