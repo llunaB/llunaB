@@ -5,7 +5,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mergingchoco)](https://solved.ac/mergingchoco)
 
 ## What I've done...
-- 스프린트 기반의 Agile 방식의 프로젝트를 위해 Jira를 활용하여 스프린트를 중심으로 Epic-Story-Subtasks, Task 단위로 협업하며 일정을 관리하였습니다.
+- Agile 방식의 프로젝트를 위해 Jira를 활용하여 스프린트를 중심으로 Epic-Story-Subtasks, Task 단위로 협업하며 일정을 관리하였습니다.
 - 형상관리를 위해 git을 활용하였으며 branch 및 commit convention 을 통일하였습니다.
 - git 커밋 메세지 앞단에 Jira 이슈 넘버를 적어 필요시 확인 가능하도록 하였습니다.
 - 기능별 빠른 빌드-배포를 위해 git-flow 를 활용하여 브랜치를 관리하였습니다.
