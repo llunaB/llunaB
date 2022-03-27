@@ -4,13 +4,27 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mergingchoco)](https://solved.ac/mergingchoco)
 
+## What I've done...
+- 스프린트 기반의 Agile 방식의 프로젝트를 위해 Jira를 활용하여 스프린트를 중심으로 Epic-Story-Subtasks, Task 단위로 협업하며 일정을 관리하였습니다.
+- 형상관리를 위해 git을 활용하였으며 branch 및 commit convention 을 통일하였습니다.
+- git 커밋 메세지 앞단에 Jira 이슈 넘버를 적어 필요시 확인 가능하도록 하였습니다.
+- 기능별 빠른 빌드-배포를 위해 git-flow 를 활용하여 브랜치를 관리하였습니다.
+- 오픈 소스 라이센스이며 다양한 운영체제에서 사용가능하고 표준 SQL 형식을 지원하는 MySQL 을 사용하였습니다.
+- 서비스 로직에 집중하고 객체 설계 중심의 개발을 위해 Spring Data JPA를 사용하였습니다.
+- Restful API을 지향하여 쿠키, 세션 기반이 아닌 JWT 토큰 인증 방식으로 Spring Security를 활용하여 회원관리 기능을 구현하였습니다. 
+- 재사용 가능한 함수를 만들기 위해 URI 빌더를 활용하며 정보나루, 카카오 등 OpenAPI 데이터를 파싱, DB에 적재하는 로직을 구현하였습니다.
+- 데이터를 보호하기 위해 오픈소스인 OpenSSL 을 활용하여 HTTP 암호화 프로토콜을 사용한 SSL 서버를 구축하였습니다.
+- 대량의 이미지를 저장하고 트래픽 증가에 대비하기 위해  Amazon S3 와 연동하였습니다.
+- 보안과 로드 밸런싱, SSL 암호화를 위해 Nginx 웹서버로 리버스 프록시를 구성하였습니다.
+- 빌드와 배포를 자동화하기 위해 Jenkins를 활용하였으며 Gitlab 과 연동하여 자동으로 진행되도록 하였습니다.
+- 서버의 유연성과 트래픽 증가 대비를 위해 가상머신보다 가볍고 유용한 Docker를 사용하였으며 Jenkins, Nginx, WAS 를 도커 컨테이너로 실행시키고 도커 네트워크를 구축하였습니다.
+
 ## What is my story?
 - What is my domain?
 - Work experience in E-Commerce, major in English Language and Literature.
 - Believe or not, I worked as a web designer.
 - What am I interested in?
 - Love Food & Coffee. Love Reading & Books. Love Meditation & Yoga.
-
 
 ## Dude,
 
