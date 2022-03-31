@@ -29,7 +29,7 @@
 ## Non-Dev Exp
 - 식품유통서비스 모바일 웹앱 기획 및 디자인
 - 업사이클링 유통 쇼핑몰 기획 및 디자인
-- 안드로이드 교육용 오답노트 어플리케이션 기획 및 디자인 https://play.google.com/store/apps/details?id=com.behemoth.repeat
+- 안드로이드 교육용 오답노트 어플리케이션 기획 및 디자인(출시)https://play.google.com/store/apps/details?id=com.behemoth.repeat
 
 ## Dude,
 
