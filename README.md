@@ -27,8 +27,8 @@
 - Love Food & Coffee. Love Reading & Books. Love Meditation & Yoga.
 
 ## Non-Dev Exp
-- 식품유통서비스 모바일 웹앱 기획 및 디자인
-- 업사이클링 유통 쇼핑몰 기획 및 디자인
+- 식품유통서비스 모바일 웹앱 사이드프로젝트 리딩 https://www.notion.so/MVP-e033e905d6f845e08bef53d1a5473507
+- 업사이클링 유통 쇼핑몰 기획 및 디자인 사이드프로젝트
 - 안드로이드 교육용 오답노트 어플리케이션 기획 및 디자인(출시)https://play.google.com/store/apps/details?id=com.behemoth.repeat
 
 ## Dude,
