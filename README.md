@@ -26,6 +26,11 @@
 - What am I interested in?
 - Love Food & Coffee. Love Reading & Books. Love Meditation & Yoga.
 
+## Non-Dev Exp
+- 식품유통서비스 모바일 웹앱 기획
+- 업사이클링 유통 쇼핑몰 기획
+- 안드로이드 교육용 오답노트 어플리케이션 기획
+
 ## Dude,
 
 - Code, Code, Code
