@@ -42,14 +42,14 @@ https://shorturl.at/twELM
 ## Dev Exp
 
 #### A:paty 아파티 (지역기반 아파트 커뮤니티 서비스) / Backend Engineer / Infra
- - 발표자료 : https://shorturl.at/dhF23
+ - 발표자료 : https://shorturl.at/dhF23 
  - 코드 : https://github.com/A-PATY/A-PATY
 
-#### 15.5도 (빅데이터 기반 와인 추천 서비스) / BackendEngineer / Infra / Team Leader
+#### 15.5도 (빅데이터 기반 와인 추천 서비스) / BackendEngineer / Infra / Team Leader / Speech 
  - 발표자료 : https://shorturl.at/bcuL9
  - 코드 : https://github.com/fifteenfive/fifteenfive
 
-#### Meetbook 밋북 (실시간 화상 독서모임 서비스) / Backend Engineer / Infra
+#### Meetbook 밋북 (실시간 화상 독서모임 서비스) / Backend Engineer / Infra / Speech 
  - 발표자료 : https://shorturl.at/cvDF7
  - 코드 : https://github.com/llunaB/meet-book
 
