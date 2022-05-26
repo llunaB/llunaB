@@ -36,9 +36,6 @@
 - 프로젝트 우수팀 선정(삼성청년SW아카데미) 2022.02.18
  : 실시간 화상 독서모임 서비스 ‘밋북’ 공통프로젝트 우수팀 선정(반 7팀 중 3위)
 
-## PortFolio
-https://shorturl.at/hnDU5
-
 ## Dev Exp
 
 #### A:paty 아파티 (지역기반 아파트 커뮤니티 서비스) / Backend Engineer / Infra
