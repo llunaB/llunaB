@@ -56,8 +56,6 @@ https://shorturl.at/vFJS0
 #### 마이무비테이스트, 마무 (같은 취향 영화추천 사이트) / Backed Engineer / Markup 
  - 코드 : https://github.com/MyMovieTaste/mamoo
 
-## What I've done...
-- portfolio : shorturl.at/twELM
 
 ## Non-Dev Exp
 
