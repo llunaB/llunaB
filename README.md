@@ -1,6 +1,25 @@
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)<br> ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)      
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/mysql-006f89.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/mariaDB-003342.svg?style=for-the-badge&logo=mariaDB&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffcd36.svg?style=for-the-badge&logo=firebase&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-52A4E8.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)      
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llunaB&show_icons=true&theme=default)
-</br>
+
 
 
 ## What is my story?
@@ -21,22 +40,22 @@ shorturl.at/twELM
 
 ## Dev Exp
 
-- A:paty 아파티 (지역기반 아파트 커뮤니티 서비스) / Backend Engineer & Infra
+#### A:paty 아파티 (지역기반 아파트 커뮤니티 서비스) / Backend Engineer & Infra
  - 발표자료 : https://shorturl.at/dhF23
  - 코드 : https://github.com/A-PATY/A-PATY
 
-- 15.5도 (빅데이터 기반 와인 추천 서비스) / BackendEngineer & Infra / Team Leader
+#### 15.5도 (빅데이터 기반 와인 추천 서비스) / BackendEngineer & Infra / Team Leader
  - 발표자료 : https://shorturl.at/bcuL9
  - 코드 : https://github.com/llunaB/fifteenfive
 
-- Meetbook 밋북 (실시간 화상 독서모임 서비스) / Backend Engineer & Infra
+#### Meetbook 밋북 (실시간 화상 독서모임 서비스) / Backend Engineer & Infra
  - 발표자료 : https://shorturl.at/cvDF7
  - 코드 : https://github.com/llunaB/meet-book
 
-- 마이무비테이스트, 마무 (같은 취향 영화추천 사이트) / Backed Enginner
+#### 마이무비테이스트, 마무 (같은 취향 영화추천 사이트) / Backed Enginner
 
 ## What I've done...
-- portfolio : 
+- portfolio : shorturl.at/twELM
 
 ## Non-Dev Exp
 
