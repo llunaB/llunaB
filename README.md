@@ -37,7 +37,7 @@
  : 실시간 화상 독서모임 서비스 ‘밋북’ 공통프로젝트 우수팀 선정(반 7팀 중 3위)
 
 ## PortFolio
-https://shorturl.at/vFJS0
+https://shorturl.at/hnDU5
 
 ## Dev Exp
 
