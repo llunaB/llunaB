@@ -53,7 +53,7 @@ https://shorturl.at/vFJS0
  - 발표자료 : https://shorturl.at/cvDF7
  - 코드 : https://github.com/llunaB/meet-book
 
-#### 마이무비테이스트, 마무 (같은 취향 영화추천 사이트) / Backed Engineer / Markup & Design
+#### 마이무비테이스트, 마무 (같은 취향 영화추천 사이트) / Backed Engineer / Markup 
  - 코드 : https://github.com/MyMovieTaste/mamoo
 
 ## What I've done...
@@ -61,7 +61,7 @@ https://shorturl.at/vFJS0
 
 ## Non-Dev Exp
 
-- 안드로이드 교육용 오답노트 어플리케이션 기획설계 및 디자인(Market 출시)
+- 안드로이드 교육용 오답노트 어플리케이션 출시
 - https://play.google.com/store/apps/details?id=com.behemoth.repeat
 
 ## Dude,
