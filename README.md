@@ -53,7 +53,8 @@ https://shorturl.at/twELM
  - 발표자료 : https://shorturl.at/cvDF7
  - 코드 : https://github.com/llunaB/meet-book
 
-#### 마이무비테이스트, 마무 (같은 취향 영화추천 사이트) / Backed Enginner
+#### 마이무비테이스트, 마무 (같은 취향 영화추천 사이트) / Backed Enginner & Markup & Design
+ - 코드 : https://github.com/MyMovieTaste/mamoo
 
 ## What I've done...
 - portfolio : shorturl.at/twELM
