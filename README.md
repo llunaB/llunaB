@@ -45,7 +45,7 @@ https://shorturl.at/twELM
  - 발표자료 : https://shorturl.at/dhF23 
  - 코드 : https://github.com/A-PATY/A-PATY
 
-#### 15.5도 (빅데이터 기반 와인 추천 서비스) / BackendEngineer / Infra / Team Leader / Speech 
+#### 15.5도 (빅데이터 기반 와인 추천 서비스) / Backend Engineer / Infra / Team Leader / Speech 
  - 발표자료 : https://shorturl.at/bcuL9
  - 코드 : https://github.com/fifteenfive/fifteenfive
 
