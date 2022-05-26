@@ -36,7 +36,7 @@
  : 실시간 화상 독서모임 서비스 ‘밋북’ 공통프로젝트 우수팀 선정(반 7팀 중 3위)
 
 ## PortFolio
-shorturl.at/twELM
+https://shorturl.at/twELM
 
 ## Dev Exp
 
@@ -60,7 +60,7 @@ shorturl.at/twELM
 ## Non-Dev Exp
 
 - 안드로이드 교육용 오답노트 어플리케이션 기획설계 및 디자인(Market 출시)
-https://play.google.com/store/apps/details?id=com.behemoth.repeat
+- https://play.google.com/store/apps/details?id=com.behemoth.repeat
 
 ## Dude,
 
