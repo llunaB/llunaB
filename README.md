@@ -16,12 +16,23 @@
 - 프로젝트 우수팀 선정(삼성청년SW아카데미) 2022.02.18
  : 실시간 화상 독서모임 서비스 ‘밋북’ 공통프로젝트 우수팀 선정(반 7팀 중 3위)
 
+## PortFolio
+shorturl.at/twELM
 
 ## Dev Exp
 
 - A:paty 아파티 (지역기반 아파트 커뮤니티 서비스) / Backend Engineer & Infra
-- 15.5도 (빅데이터 기반 와인 추천 서비스) / BackendEngineer & Infra(Team Leader)
+ - 발표자료 : https://shorturl.at/dhF23
+ - 코드 : https://github.com/A-PATY/A-PATY
+
+- 15.5도 (빅데이터 기반 와인 추천 서비스) / BackendEngineer & Infra / Team Leader
+ - 발표자료 : https://shorturl.at/bcuL9
+ - 코드 : https://github.com/llunaB/fifteenfive
+
 - Meetbook 밋북 (실시간 화상 독서모임 서비스) / Backend Engineer & Infra
+ - 발표자료 : https://shorturl.at/cvDF7
+ - 코드 : https://github.com/llunaB/meet-book
+
 - 마이무비테이스트, 마무 (같은 취향 영화추천 사이트) / Backed Enginner
 
 ## What I've done...
