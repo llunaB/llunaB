@@ -30,7 +30,7 @@
 - Work experience in E-Commerce, major in English Language and Literature.
 - Passion Matters.
 
-## Participating Leetcode
+## Participating in Leetcode
 - https://leetcode.com/lluB/
 
 ## Award
