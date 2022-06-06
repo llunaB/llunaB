@@ -30,6 +30,9 @@
 - Work experience in E-Commerce, major in English Language and Literature.
 - Passion Matters.
 
+## Participating Leetcode
+- https://leetcode.com/lluB/
+
 ## Award
 
 - 프로젝트 우수팀 선정(삼성청년SW아카데미) 2022.04.08
