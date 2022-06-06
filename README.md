@@ -23,6 +23,10 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)      
 
 
+## This is me!
+- 재택보다 직접 만나는게 더 좋은 M세대 사람!
+- 좋아하는 일 == 잘 하는 일 == 해야 하는 일을 찾은 행복한 사람!
+- 30년 지속가능한 커리어를 생각하는 사람!
 
 ## What is my story?
 
