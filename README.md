@@ -30,8 +30,7 @@
 - Work experience in E-Commerce, major in English Language and Literature.
 - Passion Matters.
 
-## Participating in Leetcode
-- https://leetcode.com/lluB/
+
 
 ## Award
 
@@ -58,6 +57,11 @@
 
 #### 마이무비테이스트, 마무 (같은 취향 영화추천 사이트) / Backed Engineer / Markup 
  - 코드 : https://github.com/MyMovieTaste/mamoo
+
+
+
+## Participating in Leetcode
+- https://leetcode.com/lluB/
 
 
 ## Non-Dev Exp
