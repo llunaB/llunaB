@@ -27,7 +27,7 @@
 - 재택보다 직접 만나는게 더 좋은 M세대 사람!
 - 좋아하는 일 == 잘 하는 일 == 해야 하는 일을 찾은 행복한 사람!
 - 30년 지속가능한 커리어를 생각하는 사람!
-- 귀하디 귀하다는 Female INTJ :) business and creative person!
+- 귀하디 귀하다는 Female INTJ (<-개발자 Top3) business and creative person!
 
 ## What is my story?
 
