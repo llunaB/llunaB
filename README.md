@@ -28,7 +28,7 @@
 - 30년 지속가능한 커리어를 생각하는 사람!
 - 도전과 실패와 성공을 통해 성장하는 사람!
 - 재택보다 직접 만나는게 더 좋은 M세대 사람!
-- 귀하디 귀하다는 Female INTJ (<-개발자 Top3) business and creative person!
+- Female INTJ (<-개발자 Top3) business and creative person!
 
 ## What is my story?
 
