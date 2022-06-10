@@ -50,7 +50,7 @@
 
 실시간 화상 독서모임 서비스 ‘밋북’ 공통프로젝트 우수팀 선정(반 7팀 중 3위)
 
-## Portfolio & Speech
+## Portfolio(0610 정리본 업데이트) & Speech
 - https://www.notion.so/39179a78521e4cc28e95100774eda1fd
 
 ## Dev Exp
