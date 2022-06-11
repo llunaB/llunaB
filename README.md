@@ -23,13 +23,6 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)      
 
 
-## This is me!
-- 좋아하는 일 == 잘 하는 일 == 해야 하는 일을 찾은 행복한 사람!
-- 30년 지속가능한 커리어를 생각하는 사람!
-- 도전과 실패와 성공을 통해 성장하는 사람!
-- 피드백을 바로바로 실행에 옮기는 사람!
-- Female INTJ (<-개발자 Top3) business and creative person!
-
 ## What is my story?
 
 - What is my domain?
