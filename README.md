@@ -26,7 +26,6 @@
 ## What is my story?
 
 - What is my domain?
-- Work experience in E-Commerce, major in English Language and Literature.
 - Passion Matters.
 
 
