@@ -53,16 +53,16 @@
 ## Dev Exp
 
 
-#### 15.5도 (빅데이터 기반 와인 추천 서비스) / Backend Engineer / Infra / Team Leader / Speech 
+#### 15.5도 (빅데이터 기반 와인 추천 서비스) Team Leader / Backend Engineer / Infra / Speech 
  - 코드 : https://github.com/fifteenfive/fifteenfive
 
-#### Meetbook 밋북 (실시간 화상 독서모임 서비스) / Backend Engineer / Infra / Speech 
+#### Meetbook 밋북 (실시간 화상 독서모임 서비스) Backend Engineer / Infra / Speech 
  - 코드 : https://github.com/llunaB/meet-book
 
-#### A:paty 아파티 (지역기반 아파트 커뮤니티 서비스) / Backend Engineer / Infra
+#### A:paty 아파티 (지역기반 아파트 커뮤니티 서비스) Backend Engineer / Infra
  - 코드 : https://github.com/A-PATY/A-PATY
 
-#### 마이무비테이스트, 마무 (같은 취향 영화추천 사이트) / Backed Engineer / Markup 
+#### 마이무비테이스트, 마무 (같은 취향 영화추천 사이트) Backed Engineer / Markup 
  - 코드 : https://github.com/MyMovieTaste/mamoo
 
 
