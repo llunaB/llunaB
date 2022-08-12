@@ -9,11 +9,14 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
+![OracleDB](https://img.shields.io/badge/oracle-C74633.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-006f89.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/mariaDB-003342.svg?style=for-the-badge&logo=mariaDB&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffcd36.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
+![CentOS](https://img.shields.io/badge/CentOS-000000?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-c93a2e.svg?style=for-the-badge&logo=jenkins&logoColor=white)
