@@ -1,3 +1,5 @@
+(아래중 하나라도 제대로 하자는 마음)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llunaB&show_icons=true&theme=onedark)
 
 ![Kafka](https://img.shields.io/badge/kafka-000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
